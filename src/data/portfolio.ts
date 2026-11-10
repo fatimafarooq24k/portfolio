@@ -19,7 +19,7 @@ export const profile = {
   degree: 'BS Artificial Intelligence',
   institution: 'University of Management and Technology (UMT)',
   location: 'Lahore, Pakistan',
-  email: 'fatimafaroq24k@gmail.com',
+  email: 'fatimafarooq24k@gmail.com',
   phone: '+92-317-8368606',
   github: 'https://github.com/fatimafarooq24k',
   linkedin: 'https://linkedin.com/in/fatimah-farooq',
